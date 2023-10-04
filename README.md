@@ -6,6 +6,7 @@
 
 ## Trabajo desarrollado por Nicolás Díaz
 ## Trabajo desarrollado por Lucas Zarandon
+## Trabajo desarrollado por Franco Rossi
 Visita la página web donde explicamos detalladamente como trabajar en GitHub con Git
 <a target="_blank" href="https://lucaszhh.github.io/Git-con-Github/">git-con-github</a> 
 
